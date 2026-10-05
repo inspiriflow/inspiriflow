@@ -1,6 +1,9 @@
 ### Hey, I'm Alex Lou
 
-![Static Badge](https://img.shields.io/badge/X-@inspiriflow-black?logo=X&link=https://x.com/inspiriflow/) ![Static Badge](https://img.shields.io/badge/LinkedIn-Alex%20Lou-blue?link=https://www.linkedin.com/in/alexweilou/) ![Static Badge](https://img.shields.io/badge/YouTube-TBA-red?logo=youtube&link=) ![Static Badge](https://img.shields.io/badge/Instagram-@inspiri.flow-purple?logo=instagram&link=https://www.instagram.com/inspiri.flow) 
+[![X](https://img.shields.io/badge/X-@inspiriflow-black?logo=X)](https://x.com/inspiriflow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Lou-blue?logo=linkedin)](https://www.linkedin.com/in/alexweilou/)
+[![YouTube](https://img.shields.io/badge/YouTube-TBA-red?logo=youtube)]()
+[![Instagram](https://img.shields.io/badge/Instagram-@inspiri.flow-purple?logo=instagram)](https://www.instagram.com/inspiri.flow)
 
 12+ years in big-tech partnerships and sales across APAC with Google and Uber. Building AI tools and products, and writing about them ferociously. 
 
